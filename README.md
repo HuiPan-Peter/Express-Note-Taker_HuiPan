@@ -49,8 +49,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 2.Follow the link http://localhost:3001 on the terminal or open the link http://127.0.0.1:3001/ from a browser;
 3.On the default index page, click "Get Started" button;
 4.On the notes page, check your previous, delete a note or create a new one;
-[Netlify deployed URL]https://
-
+---
+[Heroku deployed URL] https://agile-hollows-64817-392c24d32f8b.herokuapp.com/
+---
 ## Contributions
 
 https://github.com/HuiPan-Peter
