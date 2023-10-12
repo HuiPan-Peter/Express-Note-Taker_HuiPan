@@ -45,7 +45,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Installation
 1.Download GitHub repository: [Github Repository]https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan.git
 2.Open folder with VSCode to check "dependencies": {"express": "^4.16.4","uuid": "^8.3.2" };
-3.Under node command-line run ```npm i``` to install express and uuid;
+3.Under node command-line run "npm i" to install express and uuid;
 
 ## Usage
 1.Under bash command ``` node server.js ``` to start the express server;
@@ -55,10 +55,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ---
 [Heroku deployed URL] https://agile-hollows-64817-392c24d32f8b.herokuapp.com/
 ---
-
-## Walkthrough Video Demo & Screenshot of the Application
- ![Express-Note-Taker_HuiPan]()
-
 ## Contributions
 
 https://github.com/HuiPan-Peter
