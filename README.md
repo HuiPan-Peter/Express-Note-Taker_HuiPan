@@ -1,8 +1,8 @@
 # Express-Note-Taker_HuiPan
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Deployed with Heroku at:
-  [https://agile-hollows-64817-392c24d32f8b.herokuapp.com/](https://agile-hollows-64817-392c24d32f8b.herokuapp.com/)
+## Deployed with Heroku at:
+[https://agile-hollows-64817-392c24d32f8b.herokuapp.com/](https://agile-hollows-64817-392c24d32f8b.herokuapp.com/)
 
 ## Table of Contents
 
@@ -43,17 +43,18 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Installation
-1.Download GitHub repository: [Github Repository]https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan.git
-2.Open folder with VSCode to check "dependencies": {"express": "^4.16.4","uuid": "^8.3.2" };
-3.Under node command-line run "npm i" to install express and uuid;
+- 1.Download GitHub repository: [Github Repository]https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan.git
+- 2.Open folder with VSCode to check "dependencies": {"express": "^4.16.4","uuid": "^8.3.2" };
+- 3.Under node command-line run ```npm i``` to install express and uuid;
 
 ## Usage
-1.Under bash command ``` node server.js ``` to start the express server;
-2.Follow the link http://localhost:3001 on the terminal or open the link http://127.0.0.1:3001/ from a browser;
-3.On the default index page, click "Get Started" button;
-4.On the notes page, check your previous, delete a note or create a new one;
+- 1.Under bash command ``` node server.js ``` to start the express server;
+- 2.Follow the link http://localhost:3001 on the terminal or open the link http://127.0.0.1:3001/ from a browser;
+- 3.On the default index page, click "Get Started" button;
+- 4.On the notes page, check your previous, delete a note or create a new one;
 ---
-[Heroku deployed URL] https://agile-hollows-64817-392c24d32f8b.herokuapp.com/
+## Walkthrough Video Demo and Screenshot of the Application
+![Express-Note-Taker_HuiPan](https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan/tree/main/public/assets/videoDemo%26screenshot)
 ---
 ## Contributions
 
