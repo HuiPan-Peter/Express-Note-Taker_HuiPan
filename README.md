@@ -54,7 +54,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - 4.On the notes page, check your previous, delete a note or create a new one;
 ---
 ## Walkthrough Video Demo and Screenshot of the Application
-![Express-Note-Taker_HuiPan](https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan/tree/main/public/assets/videoDemo%26screenshot)
+![https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan/tree/main/public/assets/videoDemo%26screenshot](https://github.com/HuiPan-Peter/Express-Note-Taker_HuiPan/tree/main/public/assets/videoDemo%26screenshot)
 ---
 ## Contributions
 
